@@ -49,7 +49,7 @@ div#cabeça {
   width: 800px;
   height: 150px;
   margin: 20px auto 0 auto;
-  background-image: url(img/fotos/cabecalho.png);
+  background-image: url(img/fotos/cabecalho.PNG);
   opacity: 10%;
 }
 div#desig img {
@@ -81,7 +81,7 @@ div#fotos{
   height: 1000px;
   margin: 30px auto 10px auto;
     float: none;
-    background-image: url(img/fotos/fundao.png);
+    background-image: url(img/fotos/fundao.PNG);
    border-radius: 3px;
 }
 div img#fgrande{
@@ -146,7 +146,7 @@ div#corpo{
     margin: 30px auto 10px auto;
     width: 800px;
     height: 600px;
-    background-image: url(img/fotos/fundao.png);
+    background-image: url(img/fotos/fundao.PNG);
 }
 div#contato{
     width: 600px;
@@ -168,13 +168,13 @@ div#corpof{
     margin: 30px auto 10px auto;
     width: 800px;
     height: 1000px;
-    background-image: url(img/fotos/fundao.png);
+    background-image: url(img/fotos/fundao.PNG);
 }
 div#corpos{
     margin: 30px auto 10px auto;
     width: 800px;
     height: 570px;
-    background-image: url(img/fotos/fundao.png);
+    background-image: url(img/fotos/fundao.PNG);
 }
 div#fots{
     float: left;
