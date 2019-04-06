@@ -49,7 +49,7 @@ div#cabeça {
   width: 800px;
   height: 150px;
   margin: 20px auto 0 auto;
-  background-image: url(../sitee/img/fotos/cabecalho.png);
+  background-image: url(../img/fotos/cabecalho.png);
   opacity: 10%;
 }
 div#desig img {
