@@ -193,21 +193,20 @@ div img#igre{
     margin: 50px 25px 0 25px;
 }
 div#texto{
+    position: absolute;
     background-color:whitesmoke;
     float: left;
     width: 700px;
     height: 500px;
-    margin: 30px 7%;
+    margin: 50px;
 }
 div#texto p{
     margin: 10px 15px;
     font-size: 19px;
-    float: left;
     padding: 0px;
     font-family: FreeMono, monospace;
 }
 div#texto h1{
-    float: left;
     font-family:Courier, monospace; 
     font-size:25px;
     margin: 10px 15px;
